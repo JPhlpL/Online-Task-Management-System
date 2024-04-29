@@ -1,0 +1,9 @@
+.btn-group .btn {
+    width: 100% !important;
+}
+
+
+.form-label:before {
+    content:"*";
+    color:red;
+  }
